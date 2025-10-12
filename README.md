@@ -14,7 +14,7 @@
 # Little Pony
 Pony Bot
 
-![Egone](/pic/IMG_9603.png)
+![Little_Pony](/pic/IMG_9603.png)
 
 
 ---
