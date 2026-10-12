@@ -17,7 +17,7 @@
 --->
 # Little Pony
 Pony Bot
-<img src="pic/IMG_9603png" width="500"> 
+<img src="pic/IMG_9603.png" width="500"> 
 <br> <br>
 
 ---
